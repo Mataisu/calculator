@@ -20,8 +20,8 @@ Test heading
 
 Anutha Wan
 ----------
-#Testing some markdown#
-##Testing some markdown##
-###Testing some markdown###
+# Testing some markdown #
+## Testing some markdown ##
+### Testing some markdown ###
 
-**Hello world!**
+** Hello world! **
