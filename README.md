@@ -26,7 +26,9 @@ Anutha Wan
 
 **Hello world!**
 
-  <html>
-    <body>
-    </body>
-  </html>
+```
+<html>
+  <body>
+  </body>
+</html>
+```
